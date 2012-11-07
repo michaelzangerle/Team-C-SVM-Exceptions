@@ -10,5 +10,6 @@ import java.rmi.Remote;
 public class NotAllowException extends Exception implements Serializable,Remote {
     public NotAllowException(String message) {
         super(message);
+
     }
 }
