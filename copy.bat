@@ -1,4 +1,4 @@
-robocopy out\artifacts ..\Team-C-SVM-Persistence\svm.persistence.implementation\lib
+robocopy out\artifacts ..Team-C-SVM-Persistence\svm.persistence.hibernate\lib
 
 robocopy out\artifacts ..\Team-C-SVM-Domain\svm.domain.implementation\lib
 
